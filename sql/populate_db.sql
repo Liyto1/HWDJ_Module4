@@ -1,3 +1,4 @@
+
 INSERT INTO worker (NAME, BIRTHDAY, LEVEL, SALARY) VALUES
     ('Forrest Gump', '1990-05-15', 'Trainee', 800),
     ('Michael Bay', '1985-02-20', 'Junior', 1200),
